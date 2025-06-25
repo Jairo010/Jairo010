@@ -2,7 +2,7 @@
 
 # Hi there! I'm Jairo 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Technology+Enthusiast;Always+Learning;Welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Technology+Enthusiast;Always+Learning;Welcome+to+my+profile!" alt="Typing SVG" />
 
 </div>
 
@@ -17,6 +17,7 @@ const jairo = {
     description: "Developer passionate about technology",
     languages: ["TypeScript", "JavaScript", "Python", "Java"],
     frameworks: ["Angular", "Node.js", "Express", "Django"],
+    databases: ["PostgreSQL", "Oracle", "MongoDB", "MySQL"],
     tools: ["Git", "Docker", "Cursor", "Linux"],
     currentlyLearning: "New technologies every day 📚",
     goal: "Create solutions that make a positive impact 🎯"
@@ -44,8 +45,9 @@ const jairo = {
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
